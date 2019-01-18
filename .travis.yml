@@ -9,9 +9,9 @@ language: bash
 
 env:
   global:
-    - USER="cfgmgmtcamp"
-    - EMAIL="info@cfgmgmtcamp.eu"
-    - REPO="cfgmgmtcamp.eu"
+    - USER="devopsdaysghent"
+    - EMAIL="info@devopsdays.be"
+    - REPO=""
     - GH_REPO="github.com/${USER}/${REPO}.git"
 
 install:
